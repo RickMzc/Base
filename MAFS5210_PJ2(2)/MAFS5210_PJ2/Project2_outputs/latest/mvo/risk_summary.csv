@@ -1,0 +1,25 @@
+Metric,Value
+Latest Rebalance Date,2026-02-28
+Next Rebalance Date,NaT
+Eligible Universe Count,502
+Selected Portfolio Count,25
+Benchmark Weight Source,IVV ETF holdings proxy
+Benchmark Holdings Date,2026-02-27
+Benchmark Local Coverage Ratio,1.0
+Historical Volatility,0.3722262956571535
+Historical Tracking Error vs S&P500,0.2675464219742252
+Predicted Total Risk,0.3586828607740792
+Predicted Proxy Tracking Error,0.2394876473575213
+Systematic Risk,0.338841883818474
+Idiosyncratic Risk,0.1176417119198171
+Total Variance Annualized,0.12865339461307748
+Systematic Variance Annualized,0.11481382222965224
+Idiosyncratic Variance Annualized,0.013839572383425234
+Factor Explained Ratio,0.8924274604253741
+Idiosyncratic Ratio,0.10757253957462586
+Proxy Active Systematic Risk,0.20783353028797122
+Proxy Active Idiosyncratic Risk,0.1189939365046783
+MCAR Reconciliation Error,0.0031377479683451764
+MCAR Mean Absolute Value,0.01595584380237386
+MCAR Max Absolute Value,0.04488788655533985
+Proxy Benchmark Idiosyncratic Variance Daily,3.500972665861708e-06
